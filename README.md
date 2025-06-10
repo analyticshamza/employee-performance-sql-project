@@ -17,3 +17,4 @@ This project contains SQL queries for 16 tasks based on an employee performance 
 
 - `employee.drawio`  
   The ER diagram representing the database schema.
+![Image](https://github.com/user-attachments/assets/7156fa58-3276-40cf-8a12-13c89afdace7)
