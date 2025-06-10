@@ -2,11 +2,20 @@
 
 A project solving employee performance queries using SQL.
 
-This project contains SQL queries for 16 tasks based on an employee performance dataset. It includes:
-- SQL scripts for various operations (selection, joins, functions, views, indexes, etc.)
-- An ER diagram (uploaded as an image and `.drawio` file)
-- A complete project report in both Word and PDF formats
+This project includes SQL queries for 16 business tasks based on an employee performance dataset. It demonstrates various SQL concepts including:
+- Data selection and filtering
+- Conditional logic (CASE statements)
+- Joins and grouping
+- Window functions (RANK)
+- Views and nested queries
+- User-defined functions
+- Index creation for optimization
+--- 
+## 🛠️ Tools Used
+- **MySQL** – SQL query execution and testing
+- **Draw.io** – ER diagram creation
 
+---
 ## Files Included
 
 - `employee_performance_mapping_problem_statement_AliHamzaShaikh.pdf`  
@@ -18,3 +27,12 @@ This project contains SQL queries for 16 tasks based on an employee performance 
 - `employee.drawio`  
   The ER diagram representing the database schema.
 ![Image](https://github.com/user-attachments/assets/7156fa58-3276-40cf-8a12-13c89afdace7)
+
+---
+### 🚀 How to Use
+1. Clone the repo or download the files.
+2. Run the `.sql` file in a MySQL environment.
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
